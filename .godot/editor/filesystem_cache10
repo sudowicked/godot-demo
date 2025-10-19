@@ -1,0 +1,13 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1760883075
+ball.png::CompressedTexture2D::5575170535578718130::1760883067::1760883077::1::::<><><>0<>0<>1738bc2c6cd6cdc0f68560d80046fa8b<>res://.godot/imported/ball.png-9a4ca347acb7532f6ae347744a6b04f7.ctex::
+icon.webp::CompressedTexture2D::3626017087650301524::1760883067::1760883077::1::::<><><>0<>0<>589028de9034123a3c6890116d339791<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+paddle.png::CompressedTexture2D::8668442055447141068::1760883067::1760883077::1::::<><><>0<>0<>be892910fc2829ccb708dd2dfce236dc<>res://.godot/imported/paddle.png-0e798fb0912613386507c9904d5cc01a.ctex::
+pong.tscn::PackedScene::654744092352024972::1760883067::0::1::::<><><>0<>0<><>::res://logic/paddle.gd<>uid://dvrb8efddt0aa::::res://paddle.png<>res://logic/ball.gd<>uid://clowikjgl4yq1::::res://ball.png<>uid://drgpdyyomyqpl::::res://separator.png<>res://logic/wall.gd<>res://logic/ceiling_floor.gd
+README.md::TextFile::-1::1760883067::0::1::::<><><>0<>0<><>::
+separator.png::CompressedTexture2D::8365776070012227721::1760883067::1760883077::1::::<><><>0<>0<>8dc9f16902c9342f9447a88f74ea5aed<>res://.godot/imported/separator.png-f981c8489b9148e2e1dc63398273da74.ctex::
+::res://logic/::1760883067
+ball.gd::GDScript::2170600597390969554::1760883067::0::1::::<>Area2D<><>0<>0<><>::
+ceiling_floor.gd::GDScript::2640561135298518892::1760883067::0::1::::<>Area2D<><>0<>0<><>::
+paddle.gd::GDScript::3501003140572887873::1760883067::0::1::::<>Area2D<><>0<>0<><>::
+wall.gd::GDScript::4974832685325499642::1760883067::0::1::::<>Area2D<><>0<>0<><>::
