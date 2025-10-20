@@ -1,0 +1,9 @@
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.dll
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\bin\ExportDebug\New Game Project.pdb
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csproj.AssemblyReference.cache
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfoInputs.cache
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.AssemblyInfo.cs
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.csproj.CoreCompileInputs.cache
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.dll
+Z:\Documents\Godot Projects\New Game Project\.mono\temp\obj\ExportDebug\New Game Project.pdb
